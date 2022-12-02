@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robbinsneupane
+- 👋 Hi, I’m Robbins Neupane
 - 👀 I’m interested in Web Design and Development.
 - 🌱 I’m currently learning Javascript and React.
 - 💞️ I’m looking to collaborate on Frontend Projects
